@@ -282,3 +282,5 @@ This project adopts a rolling policy regarding the minimum supported version of 
 - **Pandas**: 18 months
 
 This means the latest minor (X.Y) version from N months prior. Patch versions (x.y.Z) are not pinned, and only the latest available at the moment of publishing the release is guaranteed to work.
+
+<!-- ci-measurement marker (fork-only) -->
